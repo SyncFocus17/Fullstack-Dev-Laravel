@@ -1,0 +1,39 @@
+# Flutter
+flutter-app/.dart_tool/
+flutter-app/.flutter-plugins
+flutter-app/.flutter-plugins-dependencies
+flutter-app/.packages
+flutter-app/build/
+flutter-app/.pub-cache/
+flutter-app/.pub/
+flutter-app/pubspec.lock
+
+# Android
+flutter-app/android/.gradle/
+flutter-app/android/app/build/
+flutter-app/android/local.properties
+flutter-app/android/.idea/
+
+# iOS
+flutter-app/ios/Pods/
+flutter-app/ios/.symlinks/
+flutter-app/ios/Flutter/Flutter.framework
+flutter-app/ios/Flutter/Flutter.podspec
+flutter-app/ios/.generated/
+
+# Windows
+flutter-app/windows/flutter/ephemeral/
+
+# macOS
+flutter-app/macos/Flutter/ephemeral/
+
+# Linux
+flutter-app/linux/flutter/ephemeral/
+
+# Web
+flutter-app/web/.dart_tool/
+
+# Misc
+*.log
+*.swp
+.DS_Store
